@@ -4,7 +4,12 @@
       "Bash(make start:*)",
       "Bash(docker ps:*)",
       "Bash(curl:*)",
-      "Bash(python3:*)"
+      "Bash(python3:*)",
+      "Bash(git log:*)",
+      "Bash(git push)",
+      "Bash(gh:*)",
+      "Bash(git push:*)"
     ]
-  }
+  },
+  "spinnerTipsEnabled": true
 }
